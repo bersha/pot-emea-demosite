@@ -1,8 +1,9 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/eds-demo-site/:/"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/eds-demo-site/"
+    "/content/dam/"
   ]
 }
